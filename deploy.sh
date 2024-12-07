@@ -1,4 +1,4 @@
-#/bin/sh
+python app.py#/bin/sh
 
 pip install -r requirements.txt
 python -m bot.main
